@@ -1,0 +1,5 @@
+{
+  "summary": "README / run instructions for the Smart Waste Segregation app. Explains how to open the HTML file directly in a browser (no build step needed), the full feature list, how the demo classifier works, the project structure, and how to optionally serve it with a local HTTP server.",
+  "updatedAt": "2026-10-27T13:10:24.579136600Z",
+  "userFacing": true
+}

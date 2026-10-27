@@ -1,0 +1,5 @@
+{
+  "summary": "Complete Smart Waste Segregation & Recycling System built entirely in pure HTML + CSS + Vanilla JavaScript. No React, no Babel, no build step. Only external dependency is Chart.js (CDN) for charts. Features: animated hero section, intro cards, live dashboard, AI waste detection with drag-and-drop upload, color-coded bins, statistics charts, interactive sorting simulation with confetti, classification history with filters, toast notifications, mobile-responsive navbar.",
+  "updatedAt": "2026-10-27T13:19:30.438813100Z",
+  "userFacing": true
+}
